@@ -9,9 +9,6 @@ sudo yum install git -y
 # Clone the GIT repo
 git clone https://github.com/debadattagadanayak/ShellScripts.git
 
-#become root user
-sudo su
-
 #Go to the Folder
 cd ShellScripts
 
